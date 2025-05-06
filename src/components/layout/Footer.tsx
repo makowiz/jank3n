@@ -5,7 +5,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <p className="text-gray-600">
-              © {new Date().getFullYear()} オレオレFooter
+              © {new Date().getFullYear()} Jank3n.fun
             </p>
           </div>
           <div className="flex space-x-4">
@@ -13,15 +13,7 @@ export function Footer() {
               About
             </a>
             <a href="#" className="text-gray-500 hover:text-gray-700">
-              お問い合わせ
-            </a>
-            <a
-              href="https://nextjs.org"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-500 hover:text-gray-700"
-            >
-              Next.js
+              Contact
             </a>
           </div>
         </div>

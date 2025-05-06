@@ -17,9 +17,6 @@ export function Header() {
             </Link>
           </div>
           <nav className="flex space-x-4">
-            <Link href="/" className="px-3 py-2 rounded-md hover:bg-gray-100">
-              Home
-            </Link>
             <Link href="#" className="px-3 py-2 rounded-md hover:bg-gray-100">
               Guide
             </Link>
